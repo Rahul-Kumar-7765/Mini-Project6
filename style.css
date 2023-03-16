@@ -1,0 +1,64 @@
+.first{
+    margin: 10px;
+    padding: 50px;
+    width: 50%;
+    opacity: 0.5;
+    background-image: linear-gradient(blue,aqua);
+    border: 2px solid grey;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin-left: 250px;
+
+}
+h2{
+    text-align: center;
+    border: 2px solid rgb(190, 232, 218);
+    width: 25%;
+    margin-left: 450px;
+    background-image: linear-gradient(rgb(219, 57, 219),rgb(120, 120, 217));
+    color: rgb(254, 253, 253);
+    opacity: 0.5;
+    border-radius: 5px;
+}
+h2:hover{
+    opacity: 1;
+}
+.first:hover{
+    opacity: 1;
+    background-image: linear-gradient(red,rgb(0, 242, 255));
+    color: white;
+}
+.second{
+    margin: 10px;
+    padding: 50px;
+    width: 50%;
+    opacity: 0.5;
+    background-image: linear-gradient(blue,aqua);
+    border: 2px solid grey;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin-left: 250px;
+
+}
+.third{
+    margin: 10px;
+    padding: 50px;
+    width: 50%;
+    opacity: 0.5;
+    background-image: linear-gradient(blue,aqua);
+    border: 2px solid grey;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin-left: 250px;
+
+}
+.second:hover{
+    opacity: 1;
+    background-image: linear-gradient(red,rgb(0, 242, 255));
+    color: white;
+}
+.third:hover{
+    opacity: 1;
+    background-image: linear-gradient(red,rgb(0, 242, 255));
+    color: white;
+}
